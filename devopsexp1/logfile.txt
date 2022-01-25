@@ -1,0 +1,168 @@
+commit 07c85ec36d630bcbab2e1de3b11eb6b9a17748f5
+Author: Sasmit <sasmitdalvi123@gmail.com>
+Date:   Tue Jan 25 11:03:45 2022 +0530
+
+    Second Commit - Without Staging Area
+
+diff --git a/devopsexp1/file1.py b/devopsexp1/file1.py
+index 3fdc136..b97e41a 100644
+--- a/devopsexp1/file1.py
++++ b/devopsexp1/file1.py
+@@ -1 +1 @@
+-print('This is the first python file')
++print('This python file was modified')
+diff --git a/file1.py b/file1.py
+deleted file mode 100644
+index b97e41a..0000000
+--- a/file1.py
++++ /dev/null
+@@ -1 +0,0 @@
+-print('This python file was modified')
+diff --git a/file2.py b/file2.py
+deleted file mode 100644
+index 82535ff..0000000
+--- a/file2.py
++++ /dev/null
+@@ -1,2 +0,0 @@
+-print('This is the second python file')
+-print('Hello')
+diff --git a/final.txt b/final.txt
+deleted file mode 100644
+index 3859eea..0000000
+--- a/final.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-Time to Skip Staging Area
+diff --git a/text1.txt b/text1.txt
+deleted file mode 100644
+index dad74bf..0000000
+--- a/text1.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-Adding the first text file to the Staging Area
+diff --git a/text2.txt b/text2.txt
+deleted file mode 100644
+index a5c77ac..0000000
+--- a/text2.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-Adding the Second text File to the Staging Area
+diff --git a/text3.txt b/text3.txt
+deleted file mode 100644
+index 7404b89..0000000
+--- a/text3.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-Adding the Third text File to the Staging Area
+
+commit 4aba2f171d4756145717ad641fe536dcebc12748
+Author: Sasmit <sasmitdalvi123@gmail.com>
+Date:   Tue Jan 25 11:03:03 2022 +0530
+
+    First commit to GitHub
+
+diff --git a/devopsexp1/file1.py b/devopsexp1/file1.py
+new file mode 100644
+index 0000000..3fdc136
+--- /dev/null
++++ b/devopsexp1/file1.py
+@@ -0,0 +1 @@
++print('This is the first python file')
+diff --git a/devopsexp1/file2.py b/devopsexp1/file2.py
+new file mode 100644
+index 0000000..d65b040
+--- /dev/null
++++ b/devopsexp1/file2.py
+@@ -0,0 +1 @@
++print('This is the second python file')
+diff --git a/devopsexp1/text1.txt b/devopsexp1/text1.txt
+new file mode 100644
+index 0000000..dad74bf
+--- /dev/null
++++ b/devopsexp1/text1.txt
+@@ -0,0 +1 @@
++Adding the first text file to the Staging Area
+diff --git a/devopsexp1/text2.txt b/devopsexp1/text2.txt
+new file mode 100644
+index 0000000..a5c77ac
+--- /dev/null
++++ b/devopsexp1/text2.txt
+@@ -0,0 +1 @@
++Adding the Second text File to the Staging Area
+diff --git a/devopsexp1/text3.txt b/devopsexp1/text3.txt
+new file mode 100644
+index 0000000..7404b89
+--- /dev/null
++++ b/devopsexp1/text3.txt
+@@ -0,0 +1 @@
++Adding the Third text File to the Staging Area
+diff --git a/file2.py b/file2.py
+index d65b040..82535ff 100644
+--- a/file2.py
++++ b/file2.py
+@@ -1 +1,2 @@
+ print('This is the second python file')
++print('Hello')
+diff --git a/final.txt b/final.txt
+new file mode 100644
+index 0000000..3859eea
+--- /dev/null
++++ b/final.txt
+@@ -0,0 +1 @@
++Time to Skip Staging Area
+
+commit 412a468ef64338f6024d7b6cd266cb9d64936206
+Author: Sasmit <sasmitdalvi123@gmail.com>
+Date:   Tue Jan 25 01:03:38 2022 +0530
+
+    Second Commit - Without Staging Area
+
+diff --git a/file1.py b/file1.py
+index 3fdc136..b97e41a 100644
+--- a/file1.py
++++ b/file1.py
+@@ -1 +1 @@
+-print('This is the first python file')
++print('This python file was modified')
+
+commit 5908b687c9b1e49c39b7587ad1f8bf05fac20680
+Author: Sasmit <sasmitdalvi123@gmail.com>
+Date:   Tue Jan 25 01:02:23 2022 +0530
+
+    First commit to GitHub
+
+diff --git a/file1.py b/file1.py
+new file mode 100644
+index 0000000..3fdc136
+--- /dev/null
++++ b/file1.py
+@@ -0,0 +1 @@
++print('This is the first python file')
+diff --git a/file2.py b/file2.py
+new file mode 100644
+index 0000000..d65b040
+--- /dev/null
++++ b/file2.py
+@@ -0,0 +1 @@
++print('This is the second python file')
+diff --git a/text1.txt b/text1.txt
+new file mode 100644
+index 0000000..dad74bf
+--- /dev/null
++++ b/text1.txt
+@@ -0,0 +1 @@
++Adding the first text file to the Staging Area
+diff --git a/text2.txt b/text2.txt
+new file mode 100644
+index 0000000..a5c77ac
+--- /dev/null
++++ b/text2.txt
+@@ -0,0 +1 @@
++Adding the Second text File to the Staging Area
+diff --git a/text3.txt b/text3.txt
+new file mode 100644
+index 0000000..7404b89
+--- /dev/null
++++ b/text3.txt
+@@ -0,0 +1 @@
++Adding the Third text File to the Staging Area
